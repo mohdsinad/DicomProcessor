@@ -7,7 +7,7 @@ setup(
     name="dicom-processor",
     version="1.0.0",
     author="Mohammed Sinad",
-    author_email="sinadsiraj@gmail.com",
+    author_email="sinadsiraj@outlook.com",
     description="A package for processing DICOM images",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -28,5 +28,7 @@ setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
+        "Intended Audience :: Education",
+        "Development Status :: Experimental"
     ],
 )
